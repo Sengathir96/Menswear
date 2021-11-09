@@ -14,4 +14,5 @@ public class Sample {
 		add1(10, 20,30);
 	}
 	
+	
 }
