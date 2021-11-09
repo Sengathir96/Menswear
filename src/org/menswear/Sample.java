@@ -6,11 +6,12 @@ public class Sample {
 
 		int d = a + b+ c;
 
-		System.out.println(c);
+		System.out.println(d);
 	}
 
 	public static void main(String[] args) {
 
 		add1(10, 20,30);
 	}
+	
 }
